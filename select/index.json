@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エスペランサ (picco Remix)",
+  "base_artist": "ど～ぱみん",
+  "createdAt": "2025-12-30T20:03:58.665486Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エスペランサ",
+      "artist": "ど～ぱみん",
+      "has_synced": false,
+      "path": "select/pl_01_エスペランサ_ど~ぱみん.txt"
+    }
+  ]
+}
